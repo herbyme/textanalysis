@@ -6,7 +6,7 @@ and output the count. Make sure to look for pluraly and lowercase versions of th
 
 2. Convert the html text file:
 
-  1. Covert all "Nike" (including plural, lowercase versions) of the word into links. The links should be the following format: <a data-test=firstnamelastname>searchterm</a> without changing the text. For example if you find the phrase "This is nike's great achievement" and your name is Alicia Chan the phrase
+  1. Covert all "Nike" (including plural, lowercase versions) of the word into links. The links should be the following format: `<a data-test=firstnamelastname>searchterm</a>` without changing the text. For example if you find the phrase "This is nike's great achievement" and your name is Alicia Chan the phrase
 will be replaced by: `This is <a data-test=firstnamelastname>nike's</a> great achievement`
 
   2.  Do not convert any existing anchor tags.
