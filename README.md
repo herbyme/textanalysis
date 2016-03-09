@@ -2,7 +2,7 @@ TEST TEXT ANALYSIS:
 ==================
 
 1. In the html text file, find the number of occurrences (count) for the following phrase "Nike"
-and output the count. Make sure to look for pluraly and lowercase versions of the phrase as well as existing anchor elements.
+and output the count. Make sure to look for plurals and lowercase versions of the phrase as well as phrases that are anchor tags.
 
 2. Convert the html text file:
 
